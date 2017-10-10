@@ -22,3 +22,7 @@ div#wall div.parent div#tag-5.slick{
 div#wall div.parent :last-of-type{
   display: none;
 }
+
+div#wall div.parent :last-of-type{
+  display: none;
+}
