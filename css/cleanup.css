@@ -19,6 +19,6 @@ div#wall div.parent div#tag-5.slick{
   display: none;
 }
 
-div#wall #tag-6{
+div#wall div.parent :last-of-type{
   display: none;
 }
