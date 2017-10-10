@@ -23,6 +23,6 @@ div#wall div.parent :last-of-type{
   display: none;
 }
 
-div#wall div.parent div > :last-child.slick {
+div#wall div.parent div div#tag-7.slick {
   display: none;
 }
